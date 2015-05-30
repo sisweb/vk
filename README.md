@@ -1,3 +1,3 @@
-# vk
-vk
+# VK.COM
+https://vk.com/
 ### Test
